@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0066-plus-one) |
+| [0643-maximum-average-subarray-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
