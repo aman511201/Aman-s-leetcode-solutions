@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int sumOddLengthSubarrays(vector<int>& arr) {
+        int n = arr.size();
+        //int ans = 0;
+        long long sum= 0;
+        for(int i = 0;i<n;i++){
+           // int prefix = 0;
+            for(int j = i;j<n;j++){
+                if((j-i+1)%2 == 1 ){
+                for(int k = i;k<=j;k++){
+                    sum += arr[k];
+                }
+                    }
+                    
+                }
+            }
+        
+        return  sum;
+    }
+};
