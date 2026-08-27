@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0066-plus-one) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
@@ -135,27 +137,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
