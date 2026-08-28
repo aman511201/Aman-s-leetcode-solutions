@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
