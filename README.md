@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
 | [3477-fruits-into-baskets-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -106,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
