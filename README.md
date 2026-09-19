@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -213,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
