@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
