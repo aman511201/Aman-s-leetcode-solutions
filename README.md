@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
@@ -227,9 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
