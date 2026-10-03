@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
