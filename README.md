@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2864-maximum-odd-binary-number](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2938-separate-black-and-white-balls](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Quicksort
 |  |
 | ------- |
