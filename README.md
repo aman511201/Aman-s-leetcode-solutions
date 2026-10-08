@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
