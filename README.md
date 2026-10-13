@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1590-make-sum-divisible-by-p](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Math
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Design
