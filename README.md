@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1590-make-sum-divisible-by-p](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
