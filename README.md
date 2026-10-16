@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -288,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
