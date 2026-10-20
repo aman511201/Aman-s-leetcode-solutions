@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
