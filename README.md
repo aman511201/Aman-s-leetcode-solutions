@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0763-partition-labels](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0763-partition-labels) |
 | [2938-separate-black-and-white-balls](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
