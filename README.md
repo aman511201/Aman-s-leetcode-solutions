@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2864-maximum-odd-binary-number](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/aman511201/Aman-s-leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Counting
