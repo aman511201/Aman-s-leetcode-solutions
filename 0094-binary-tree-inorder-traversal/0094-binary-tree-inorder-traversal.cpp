@@ -17,12 +17,13 @@ public:
 
         if (root == NULL)
             return ans;
-        ans.push_back(root->val);
+        
         vector<int> left = inorderTraversal(root->left);
 
         vector<int> right = inorderTraversal(root->right);
 
-        ans.insert(ans.begin(), left.begin(), left.end());
+        ans.insert(ans.end(), left.begin(), left.end());
+        ans.push_back(root->val);
         ans.insert(ans.end(), right.begin(), right.end());
         return ans;
     }
